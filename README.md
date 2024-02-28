@@ -34,17 +34,18 @@ a. Satu kode sumber diikuti oleh banyak revisi
 17.	Pada prinsip “ store config in the environment,” konfigurasi aplikasi sebaiknya disimpan di:
 c. lingkunan (environment variables)
 18.	Apa yang dimaksud dengan “relational” dalam RDBMS?
-19.	Apa fungsi dari primary key dma sebuah table pada RDBMS?
+    c. hubungan antara data dan aplikasi
+20.	Apa fungsi dari primary key dma sebuah table pada RDBMS?
 b. menyimpan data unik dan tidak dapat diulang
-20.	Apa peran dari foreign key dalam sebuah relasi antar table?
+21.	Apa peran dari foreign key dalam sebuah relasi antar table?
 c. menyediakan referensi ke primary key di table lain
-21.	Apa singkatan dari “REST” dalam “REST API”?
+22.	Apa singkatan dari “REST” dalam “REST API”?
 a.	Representational State Transfer
-22.	HTTP method yang digunakan untuk mendapatkan data dari sumber daya pada REST API adalah:
+23.	HTTP method yang digunakan untuk mendapatkan data dari sumber daya pada REST API adalah:
 a.	Get
-23.	Apa yang dimaksudn dengan “resource endpoint” pada REST API?
+24.	Apa yang dimaksudn dengan “resource endpoint” pada REST API?
 c. endpoint yang mengembalikan daftar sumber daya
-24.	Apa perbedaan antara git commit dan git commit -m “pesan commit”?
+25.	Apa perbedaan antara git commit dan git commit -m “pesan commit”?
 e. keduanya membuat commit tetapi dengan cara yang berbeda
-25.	Command git yang digunakan untuk menginisialisasi repositori Git baru adalah:
+26.	Command git yang digunakan untuk menginisialisasi repositori Git baru adalah:
 a. git init
