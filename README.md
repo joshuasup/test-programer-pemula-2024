@@ -1,10 +1,10 @@
 # test-programer-pemula-2024
 1.	tag yang digunakan untuk membuat paragraph pada HTML adlah:
-a.	<p>
+a.	< p>
 2.	Css selector yang digunakan untuk memililh semua elemen pada halaman HTML adalah:
 a.	*
 3.	Berikut adalah struktur dasat sebuah dokumen HTML, kecuali:
-d. <main>
+d. < main>
 4.	Property CSS yang digunakan untukmemberikan warna latar belakang (background color) pada elemen adalah:
 b.	Background-color
 5.	Attribute HTML yang digunakan untuk memberikan hyperlink pada suatu teks atau gambar adalah:
